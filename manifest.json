@@ -1,0 +1,41 @@
+{
+  "name": "States of India",
+  "short_name": "",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/icons/india-128_x_128.jpg",
+      "type": "image/jpg",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/icons/india-144_x_144.jpg",
+      "type": "image/jpg",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/images/icons/india-152 _x_152.jpg",
+      "type": "image/jpg",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/images/icons/india-192_x_192.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons/india-256_x_256.jpg",
+      "type": "image/jpg",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/images/icons/india-512_x_512.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ]
+}
